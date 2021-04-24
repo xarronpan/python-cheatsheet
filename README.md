@@ -332,7 +332,7 @@ You can name a variable anything as long as it obeys the following rules:
 1. It can be only one word.
 1. It can use only letters, numbers, and the underscore (`_`) character.
 1. It can’t begin with a number.
-1. Variable name starting with an underscore (`_`) are considered as "unuseful`.
+1. Variable name starting with an underscore (`_`) are considered as "unuseful".
 
 Example:
 
